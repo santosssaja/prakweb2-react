@@ -20,7 +20,7 @@ npm install
 >
 > - React ^19.2.0
 > - Vite ^7.0.0
-> - Tailwind CSS ^4.0.0
+> - Tailwind CSS ^3.0.0.
 > - Framer Motion ^12.23.24
 
 3. Jalankan development server:
